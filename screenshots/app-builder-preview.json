@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Amir Sharara — DJ & Producer, Dubai",
+      "hasCanvas": false,
+      "bodyTextLen": 3868,
+      "bodyTextHash": "8c1fa830fa1d1f5d872ef7b5c9a83a31aee631465b423ed93e534023b5de01cc",
+      "bodyTextPrefix": "AS Amir Sharara DUBAI Listen About Stages Book Book a date DJ / ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Amir Sharara — DJ & Producer, Dubai",
+      "hasCanvas": false,
+      "bodyTextLen": 3868,
+      "bodyTextHash": "8c1fa830fa1d1f5d872ef7b5c9a83a31aee631465b423ed93e534023b5de01cc",
+      "bodyTextPrefix": "AS Amir Sharara DUBAI Listen About Stages Book Book a date DJ / ",
+      "horizontalOverflow": true,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
